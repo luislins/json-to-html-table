@@ -1,7 +1,7 @@
 # json-to-html-table
 web page to view a json of an array of simple objects (no objects inside objects just key:value values) in an html table
+Example:
 
-example:
 [
   {
     random: "23",
